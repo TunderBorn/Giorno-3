@@ -1,0 +1,58 @@
+header {
+  text-align: center;
+}
+
+#Logo {
+  width: 15%;
+}
+
+#sottotitolo {
+  text-align: center;
+  background-color: antiquewhite;
+  border-top: 10px solid blanchedalmond;
+}
+
+main {
+  width: 50vw;
+  margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+  }
+
+#focaccia {
+    width: 90%;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
+figcaption {
+    opacity: 35%;
+}
+
+#content {
+    text-align: center;
+}
+
+h4 {
+    color: red;
+  }
+
+#link {
+  border-left: solid orange;
+  padding-left: 1%;
+}
+
+#method {
+    padding-left: 5%;
+}
+
+figure {
+  text-align: center;
+}
+
+footer {
+    width: 50vw;
+    margin: 0 auto;
+}
